@@ -10,3 +10,4 @@ int main()
   a=a-b;//a=20(30-10)
   printf("after swap a=%d b=%d",a,b);
   return 0;
+}
